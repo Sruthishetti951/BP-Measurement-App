@@ -1,0 +1,44 @@
+﻿@using BPMeasurmentApp.Models
+@model BPMeasurementModel
+@{
+    ViewData["Title"] = "EditMeasurement";
+}
+
+<h1>Edit BP Measurement</h1>
+
+<form asp-action="EditMeasurement" method="post">
+<input type="hidden" asp-for="ID"/>
+  <div class="mb-3">
+    <label for="Systolic" class="form-label">Systolic (mm Hg)</label>
+    <input type="text" class="form-control" id="Systolic" asp-for="Systolic" name="Systolic">
+<span asp-validation-for="Systolic" class="text-danger"></span>
+
+  </div>
+  <div class="mb-3">
+    <label for="Diastolic" class="form-label">Diastolic (mm Hg)</label>
+    <input type="text" class="form-control" id="Diastolic" asp-for="Diastolic" name="Diastolic">
+<span asp-validation-for="Diastolic" class="text-danger"></span>
+
+  </div>
+<div class="mb-3">
+<label for="PositionID" >Position</label>
+  <select class="form-select" asp-for="PositionID" name="PositionID">
+  <option selected value="">Open this select menu</option>
+@foreach(Position position in ViewBag.positions){
+    <option value="@position.PositionID">@position.PositionName</option>
+}
+</select>
+<span asp-validation-for="PositionID" class="text-danger"></span>
+</div>
+   <div class="mb-3">
+    <label for="DateTaken" class="form-label">Date Taken</label>
+    <input type="datetime-local" class="form-control" id="DateTaken" asp-for="DateTaken" name="DateTaken">
+<span asp-validation-for="DateTaken" class="text-danger"></span>
+
+  </div>
+  
+  <div class="d-flex">
+  <button type="submit" class="btn btn-primary me-3">Update</button>
+  <a class="btn btn-primary" asp-controller="BPMeasurement" asp-action="Index">Cancel</a>
+  </div>
+</form>

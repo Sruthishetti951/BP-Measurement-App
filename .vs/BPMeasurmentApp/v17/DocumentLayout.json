@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\controllers\\bpmeasurementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:controllers\\bpmeasurementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\views\\bpmeasurement\\editmeasurement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:views\\bpmeasurement\\editmeasurement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\views\\bpmeasurement\\addnewmeasurement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:views\\bpmeasurement\\addnewmeasurement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment1\\bpmeasurmentapp\\bpmeasurmentapp\\views\\bpmeasurement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24BAF7AC-2DC8-4819-B7C6-51D46FA7087C}|BPMeasurmentApp.csproj|solutionrelative:views\\bpmeasurement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditMeasurement.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\BPMeasurement\\EditMeasurement.cshtml",
+              "RelativeDocumentMoniker": "Views\\BPMeasurement\\EditMeasurement.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\BPMeasurement\\EditMeasurement.cshtml",
+              "RelativeToolTip": "Views\\BPMeasurement\\EditMeasurement.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T03:19:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BPMeasurementController.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Controllers\\BPMeasurementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BPMeasurementController.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Controllers\\BPMeasurementController.cs",
+              "RelativeToolTip": "Controllers\\BPMeasurementController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAswG4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:16:52.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewMeasurement.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\BPMeasurement\\AddNewMeasurement.cshtml",
+              "RelativeDocumentMoniker": "Views\\BPMeasurement\\AddNewMeasurement.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\BPMeasurement\\AddNewMeasurement.cshtml",
+              "RelativeToolTip": "Views\\BPMeasurement\\AddNewMeasurement.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T03:14:22.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:59:12.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T02:55:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:50:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\BPMeasurement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BPMeasurement\\Index.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment1\\BPMeasurmentApp\\BPMeasurmentApp\\Views\\BPMeasurement\\Index.cshtml",
+              "RelativeToolTip": "Views\\BPMeasurement\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T02:40:54.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

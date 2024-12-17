@@ -1,0 +1,46 @@
+﻿@using BPMeasurmentApp.Models
+@model List<BPMeasurementModel>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show"  role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+    @{
+        ViewData["Title"] = "AllMeasurements";
+    }
+<html> 
+<a class="btn btn btn-link" asp-area="" asp-controller="BPMeasurement" asp-action="AddNewMeasurement">Add New Measurements</a>
+   <table class="table table-striped text-center">
+      <thead>
+         <tr>
+            <th>Reading</th>
+            <th>Category</th>
+            <th>Position</th>
+            <th>Date Taken</th>
+            <th>Action</th>
+         </tr>
+      </thead>
+      <tbody>
+            @foreach (BPMeasurementModel measurement in Model)
+            {
+             <tr>
+                <td style="color:@measurement.Category[1]">@measurement.Systolic/@measurement.Diastolic</td>
+                <td style="color:@measurement.Category[1]">@measurement.Category[0]</td>
+@foreach(Position position in @ViewBag.positions){
+if(position.PositionID==measurement.PositionID){
+<td>@position.PositionName</td>
+}
+}           
+                <td>@measurement.DateTaken</td>
+                <td>
+                    <a class="btn btn-link" asp-action="EditMeasurement" asp-route-id="@measurement.ID">Edit</a> | 
+                    <a class="btn btn-link" asp-action="DeleteMeasurement" asp-route-id="@measurement.ID">Delete</a></td>
+             </tr>
+            }
+      </tbody>
+   </table>
+</html>

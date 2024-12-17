@@ -1,0 +1,15 @@
+﻿
+@model BPMeasurementModel
+@{
+    ViewData["Title"] = "DeleteMeasurement";
+}
+
+<h1>Delete Confirmation</h1>
+<form asp-action="DeleteMeasurement" method="post">
+<h3>Are you sure you want to delete this measurement ?</h3>
+<p>Here are the details - @Model.Systolic / @Model.Diastolic</p>
+<p>Time Taken - @Model.DateTaken</p>
+<input type="hidden" asp-for="@Model" name="@Model"/>
+<button type="submit" class="btn btn-primary">Delete</button>
+<a class="btn btn-primary" asp-controller="BPMeasurement" asp-action="Index">Cancel</a>
+</form>
